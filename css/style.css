@@ -420,21 +420,21 @@ button:hover {
 .services__item {
     margin-top: 50px;
 	padding: 22px;
-	box-shadow: 0 0 6px black;
-    -webkit-box-shadow: 0 0 6px black;
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	transition: .3s;
-	-webkit-transition: .3s;
+	box-shadow: 0 0 6px black!important;
+    -webkit-box-shadow: 0 0 6px black!important;
+	border-radius: 5px!important;
+	-webkit-border-radius: 5px!important;
+	transition: .3s!important;
+	-webkit-transition: .3s!important;
   }
   .services__item:hover {
-    box-shadow: 0 0 6px black;
-    -webkit-box-shadow: 0 0 6px black;
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	transition: .3s;
-	-webkit-transition: .3s;
-	-o-transition: .3s;
+    box-shadow: 0 0 6px black!important;
+    -webkit-box-shadow: 0 0 6px black!important;
+	border-radius: 5px!important;
+	-webkit-border-radius: 5px!important;
+	transition: .3s!important;
+	-webkit-transition: .3s!important;
+	-o-transition: .3s!important;
   }
   .services__item:hover .services__item__icon:after {
 	box-shadow: 0 0 6px black;
