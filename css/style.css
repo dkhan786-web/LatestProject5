@@ -844,13 +844,13 @@ section.contact-me {
 }
 
 #contact textarea {
-    background-color: rgba(250,250,250,0.1);
-    -webkit-background-color: rgba(250,250,250,0.1);
-    border: 1px solid rgba(250,250,250,1);
-    -webkit-border: 1px solid rgba(250,250,250,1);
+    background-color: rgba(250,250,250,0.1)!important;
+    -webkit-background-color: rgba(250,250,250,0.1)!important;
+    border: 1px solid rgba(250,250,250,1)!important;
+    -webkit-border: 1px solid rgba(250,250,250,1)!important;
     border-radius: 0px;
-    margin-bottom: 30px;
-    color: #fff;
+    margin-bottom: 0px;
+    color: #888;
     font-size: 14px;
     height: 180px;
     max-height: 220px;
