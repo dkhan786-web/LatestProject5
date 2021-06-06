@@ -420,13 +420,13 @@ button:hover {
 .services__item {
 	margin-top: 50px;
 	padding: 22px;
-	box-shadow: 0 0 6px black!important;
-    -webkit-box-shadow: 0 0 6px black!important;
+	box-shadow: 0 0 6px #888!important;
+	-webkit-box-shadow: 0 0 6px #888!important;
 	border-radius: 5px!important;
 	-webkit-border-radius: 5px!important;
   }
   .services__item:hover {
-	  background: #888;
+	  background-colour: #888;
 	transition: .3s!important;
 	-webkit-transition: .3s!important;
 	-o-transition: .3s!important;
